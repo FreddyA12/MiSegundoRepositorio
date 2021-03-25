@@ -64,3 +64,6 @@ while (recibeNumero !=0 ){
 }
 console.log ( "La suma total es: " + suma );
 */
+
+
+//Esta cambiando el tema solo para probar github y git en versiones
